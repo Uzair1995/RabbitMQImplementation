@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RabbitMQConsumer/.vs/RabbitMQConsumer
+/RabbitMQConsumer/RabbitMQConsumer/bin/Debug/netcoreapp3.1
+/RabbitMQConsumer/RabbitMQConsumer/obj
+/RabbitMQProducer/RabbitMQProducer/bin/Debug/netcoreapp3.1
+/RabbitMQProducer/RabbitMQProducer/obj
+/RabbitMQProducer/.vs/RabbitMQProducer
